@@ -1,0 +1,1 @@
+python mask_rcnn.py --image images/source3_1.png --mask-rcnn mask-rcnn-coco
